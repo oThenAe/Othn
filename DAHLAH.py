@@ -86,7 +86,7 @@ print("\033[0;92mUsername/Password:othen")
 print("\033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
 CorrectUsername = "othen"
-CorrectPassword = "gans"
+CorrectPassword = "othen"
 
 
 loop = 'true'
